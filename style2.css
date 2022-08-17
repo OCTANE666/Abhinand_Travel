@@ -89,9 +89,7 @@ ul {
         top: 10px;
         left: 30px;
     }
-    .header-content h2{
-        color: red;
-    }
+   
   
     .nav-links {
         flex-direction: column;
